@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    height: 100vh;
+    font-family: 'Poppins', sans-serif;
+    background-color: azure;
+}
+
+iframe{
+    width: 100%;
+    margin-right: auto;
+    position: absolute;
+    z-index: 2;
+    top: 0;
+    right: 0;
+}
+h1{
+    font-family: 'Playfair Display';
+    font-size: 4rem;
+    margin-top: 3rem;
+
+    text-align: center;
+}
+p{
+    font-size: 1.6rem;
+    font-weight: 300;
+    text-align: center;
+}
+#explore    {
+    font-size: 1.6rem;
+    font-weight: 300;
+    text-align: center;
+    margin-top: 23rem;
+}
